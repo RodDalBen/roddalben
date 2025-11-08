@@ -2,7 +2,7 @@
 
 I turn complex health data into actionable insights that improve patient outcomes and advance therapies. 
 
-Core Expertise:
+Core Expertise:  
 • Patient-Centred Research: Developed outcome measures assessing caregiver quality of life, economic burden of paediatric conditions, and patient-caregiver perception alignment  
 • Statistical & ML Modelling: Advanced proficiency in R, Python, and SQL for regression modelling, survival analysis, propensity score methods, and machine learning applications  
 • Real-World Data Analysis: Experience wrangling large datasets from diverse sources, building reproducible analytical pipelines, and creating effective visualisations for technical and non-technical audiences  
